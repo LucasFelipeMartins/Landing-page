@@ -23,8 +23,10 @@ O projeto é uma **landing page de uma loja de sapatos**, focada em treinar conc
    git clone https://github.com/SeuUsuario/Landing-page.git
 
 📌 Observações:
+
 Este projeto não tem integração com back-end ou banco de dados.
 O foco foi apenas treinar as animações e transições em CSS em um caso prático.
 
 👨‍💻 Autor
+
 Projeto desenvolvido por Lucas Felipe 
